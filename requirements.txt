@@ -1,5 +1,5 @@
 httpx
 feedparser
-re
+regex
 asyncio
 streamlit
