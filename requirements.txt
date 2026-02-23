@@ -1,0 +1,5 @@
+httpx
+feedparser
+re
+asyncio
+streamlit
